@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.header{
+    @apply flex justify-between text-center p-4 bg-red-400 shadow-md;
+}
+
+.nav{
+    @apply flex p-2 gap-20;
+}
+
+.main{
+    @apply flex justify-between text-center p-4 bg-emerald-400 shadow-md;
+}
