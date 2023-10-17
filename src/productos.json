@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa Marte",
+        "precio": 1600,
+        "imagen": "../img/hamburguesa_marte.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Hamburguesa Mercurio",
+        "precio": 2000,
+        "imagen": "../img/hamburguesa_mercurio.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Hamburguesa Saturno",
+        "precio": 2000,
+        "imagen": "../img/hamburguesa_saturno.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Hamburguesa Tierra",
+        "": 1800,
+        "imagen": "../img/hamburguesa_tierra.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Hamburguesa Jupiter",
+        "precio": 1800,
+        "imagen": "../img/hamburguesa_jupiter.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Hamburguesa Urano",
+        "precio": 2200,
+        "imagen": "../img/hamburguesa_urano.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Hamburguesa Neptuno",
+        "precio": 1900,
+        "imagen": "../img/hamburguesa_neptuno.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Hamburguesa Venus",
+        "precio": 2100,
+        "imagen": "../img/hamburguesa_venus.jpg"
+    }
+]
