@@ -9,14 +9,34 @@
 }
 
 
-.header{
+.header {
     @apply flex justify-between text-center p-4 bg-red-400 shadow-md;
 }
 
-.nav{
+.nav {
     @apply flex p-2 gap-20;
 }
 
-.main{
+.main {
     @apply flex justify-between text-center p-4 bg-emerald-400 shadow-md;
+}
+
+.btn {
+    @apply px-4 py-2 rounded-md shadow-md bg-blue-500
+}
+
+.card-title {
+    @apply text-xl font-bold;
+}
+
+.card-image {
+    @apply h-60 object-contain w-full
+}
+
+.card-container {
+    @apply grid grid-cols-4 grid-rows-4 gap-4;
+}
+
+.card {
+    @apply p-2 shadow-md space-y-10 rounded-md hover:scale-90 transition-all text-center row-span-2;
 }

@@ -20,7 +20,7 @@
     {
         "id": 4,
         "nombre": "Hamburguesa Tierra",
-        "": 1800,
+        "precio": 1800,
         "imagen": "../img/hamburguesa_tierra.jpg"
     },
     {
