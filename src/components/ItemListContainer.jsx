@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import pedirProductos from "./pedirProductos.js"
+import pedirProductos from "../pedirProductos.js"
 import ItemList from "./itemList.jsx";
 
 const ItemListContainer = () => {
