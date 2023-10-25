@@ -7,13 +7,13 @@ const pedirProductos = () => {
 }
 
 export const pedirItemPorId = (id) => {
-    return new Promise ((resolve, reject) =>{
+    return new Promise((resolve, reject) => {
 
         const item = data.find((el) => el.id === id);
 
-        if(item){
+        if (item) {
             resolve(item)
-        }else{
+        } else {
             reject({
                 error: "No se encontro el producto"
             })

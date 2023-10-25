@@ -3,48 +3,112 @@
         "id": 1,
         "nombre": "Hamburguesa Marte",
         "precio": 1600,
-        "imagen": "../img/hamburguesa_marte.jpg"
+        "imagen": "../img/hamburguesa_marte.jpg",
+        "categoria": "Hamburguesas",
+        "descripcion": "Hamburguesa Marte: La hamburguesa que inició todo. Carne jugosa, lechuga crujiente, tomate fresco y una mezcla secreta de sabores que te hará sonreír."
     },
     {
         "id": 2,
         "nombre": "Hamburguesa Mercurio",
         "precio": 2000,
-        "imagen": "../img/hamburguesa_mercurio.jpg"
+        "imagen": "../img/hamburguesa_mercurio.jpg",
+        "categoria": "Hamburguesas",
+        "descripcion": "Hamburguesa Mercurio: Una explosión de sabor con nuestra deliciosa salsa barbacoa casera, cebolla caramelizada y queso fundido. ¡Una experiencia ahumada en cada mordisco!"
     },
     {
         "id": 3,
         "nombre": "Hamburguesa Saturno",
         "precio": 2000,
-        "imagen": "../img/hamburguesa_saturno.jpg"
+        "imagen": "../img/hamburguesa_saturno.jpg",
+        "categoria": "Hamburguesas",
+        "descripcion": "Hamburguesa Saturno: Un toque de fuego en cada bocado. Carne sazonada, jalapeños, y una salsa picante que despiertan tus papilas gustativas."
     },
     {
         "id": 4,
         "nombre": "Hamburguesa Tierra",
         "precio": 1800,
-        "imagen": "../img/hamburguesa_tierra.jpg"
+        "imagen": "../img/hamburguesa_tierra.jpg",
+        "categoria": "Hamburguesas",
+        "descripcion": "Hamburguesa Tierra: La hamburguesa gourmet. Carne a la parrilla, champiñones salteados y queso suizo que se derrite en tu boca."
     },
     {
         "id": 5,
         "nombre": "Hamburguesa Jupiter",
         "precio": 1800,
-        "imagen": "../img/hamburguesa_jupiter.jpg"
+        "imagen": "../img/hamburguesa_jupiter.jpg",
+        "categoria": "Hamburguesas",
+        "descripcion": "Hamburguesa Jupiter: Crujiente por fuera, jugoso por dentro. Filete de pollo empanizado, lechuga, tomate y aderezo especial."
     },
     {
         "id": 6,
         "nombre": "Hamburguesa Urano",
         "precio": 2200,
-        "imagen": "../img/hamburguesa_urano.jpg"
+        "imagen": "../img/hamburguesa_urano.jpg",
+        "categoria": "Hamburguesas",
+        "descripcion": "Hamburguesa Urano: Una opción vegana única con una base de garbanzos y una explosión de sabores frescos, perfecta para quienes buscan una alternativa sin carne."
     },
     {
         "id": 7,
         "nombre": "Hamburguesa Neptuno",
         "precio": 1900,
-        "imagen": "../img/hamburguesa_neptuno.jpg"
+        "imagen": "../img/hamburguesa_neptuno.jpg",
+        "categoria": "Hamburguesas",
+        "descripcion": "Hamburguesa con Aros de Cebolla: La combinación perfecta de jugosa carne a la parrilla, crujientes aros de cebolla dorados y un toque de sabor irresistible. Una experiencia que te hará volver por más. ¡Sabor y textura en cada bocado!"
     },
     {
         "id": 8,
         "nombre": "Hamburguesa Venus",
         "precio": 2100,
-        "imagen": "../img/hamburguesa_venus.jpg"
+        "imagen": "../img/hamburguesa_venus.jpg",
+        "categoria": "Hamburguesas",
+        "descripcion": "Hamburguesa con Bacon Crispy: Satisfacción crujiente en cada mordisco. Nuestra jugosa hamburguesa con crujiente bacon en su interior es el sueño de todo amante de la carne. ¡Prepárate para un viaje de sabor inolvidable!"
+    },
+    {
+        "id": 9,
+        "nombre": "Coca Cola",
+        "precio": 900,
+        "imagen": "../img/cocacola.png",
+        "categoria": "Gaseosas",
+        "descripcion": "Coca-Cola: La bebida refrescante e icónica que ha conquistado el mundo con su inconfundible sabor y su legado de más de un siglo. ¡Disfruta del refresco clásico que nunca pasa de moda!"
+    },
+    {
+        "id": 10,
+        "nombre": "Sprite",
+        "precio": 900,
+        "imagen": "../img/sprite.png",
+        "categoria": "Gaseosas",
+        "descripcion": "Sprite: La bebida refrescante con un toque cítrico que te despierta los sentidos. ¡Refresca tu día con el sabor único de Sprite!"
+    },
+    {
+        "id": 11,
+        "nombre": "Fanta",
+        "precio": 900,
+        "imagen": "../img/fanta.png",
+        "categoria": "Gaseosas",
+        "descripcion": "Fanta: El refresco burbujeante lleno de sabor y diversión. Prueba la chispeante refrescancia en cada sorbo. ¡Vive el sabor Fanta!"
+    },
+    {
+        "id": 12,
+        "nombre": "Papas",
+        "precio": 1500,
+        "imagen": "../img/papas.png",
+        "categoria": "Guarnicion",
+        "descripcion": "Papas Deliciosamente Crujientes: Disfruta de la perfección crujiente en cada bocado con nuestras papas recién hechas. El acompañamiento perfecto para satisfacer tu antojo. ¡Descubre el auténtico sabor de las papas!"
+    },
+    {
+        "id": 13,
+        "nombre": "Aros de cebolla",
+        "precio": 2000,
+        "imagen": "../img/aros_de_cebolla.png",
+        "categoria": "Guarnicion",
+        "descripcion": "Aros de Cebolla: Crujientes, dorados y llenos de sabor, nuestros aros de cebolla son la elección perfecta para los amantes de los snacks. Sumérgete en esta deliciosa experiencia de sabor. ¡Una verdadera tentación para cualquier ocasión!"
+    },
+    {
+        "id": 14,
+        "nombre": "Papas con cheddar",
+        "precio": 2000,
+        "imagen": "../img/papas_cheddar.png",
+        "categoria": "Guarnicion",
+        "descripcion": "Papas con Cheddar: Deliciosas y crujientes papas fritas cubiertas con queso cheddar derretido. La combinación perfecta de sabores y texturas que te hará desear más. ¡Una verdadera delicia para los amantes del queso!"
     }
 ]
