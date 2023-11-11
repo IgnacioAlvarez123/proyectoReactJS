@@ -12,7 +12,7 @@
 
 
 .header {
-    @apply flex justify-between text-center p-4 bg-red-400 shadow-md;
+    @apply flex justify-between text-center p-4 bg-red-900 shadow-md;
 }
 
 .nav {
@@ -24,14 +24,22 @@
 }
 
 .btn {
-    @apply px-4 py-2 rounded-md shadow-md bg-blue-500
+    @apply px-4 py-2 rounded-md shadow-md bg-orange-400 hover:bg-orange-300;
+}
+
+.btn-resta {
+    @apply px-4 py-2 rounded-md shadow-md bg-red-600 hover:bg-red-400;
+}
+
+.btn-suma {
+    @apply px-4 py-2 rounded-md shadow-md bg-green-500 hover:bg-green-400;
 }
 
 .card-title {
     @apply text-xl font-bold;
 }
 
-.card-text{
+.card-text {
     @apply text-lg;
 }
 
@@ -44,13 +52,25 @@
 }
 
 .card {
-    @apply p-2 shadow-md space-y-10 rounded-md hover:scale-90 transition-all text-center row-span-2;
+    @apply  bg-slate-400 p-2 shadow-md space-y-10 rounded-md hover:scale-90 transition-all text-center row-span-2;
 }
 
-.card-description{
-    @apply p-2 shadow-md space-y-10 rounded-md  text-center row-span-2;
+.card-description {
+    @apply p-2 shadow-md space-y-10 rounded-md text-center row-span-2;
 }
 
-.main-title{
-    @apply text-xl font-bold p-10 text-center;
+.main-title {
+    @apply text-2xl font-bold p-10 text-center;
+}
+
+.backround {
+    @apply bg-gray-500
+}
+
+.contador {
+    @apply flex place-content-center gap-4 place-items-center pb-5
+}
+
+.hover-nav{
+    @apply hover:scale-90 transition-all
 }

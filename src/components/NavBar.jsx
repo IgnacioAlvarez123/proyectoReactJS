@@ -9,10 +9,10 @@ const NavBar = () => {
                     <h1 className="card-title">Titulo</h1>
                 </Link>
                 <nav className="nav">
-                    <li><Link to="/Menu" >Menú</Link></li>
-                    <li><Link to="/Menu/Hamburguesas">Hamburguesas</Link></li>
-                    <li><Link to="/Menu/Gaseosas">Gaseosas</Link></li>
-                    <li><Link to="/menu/Guarnicion">Guarniciones</Link></li>
+                    <li className="hover-nav"><Link to="/Menu" >Menú</Link></li>
+                    <li className="hover-nav"><Link to="/Menu/Hamburguesas">Hamburguesas</Link></li>
+                    <li className="hover-nav"><Link to="/Menu/Gaseosas">Gaseosas</Link></li>
+                    <li className="hover-nav"><Link to="/menu/Guarnicion">Guarniciones</Link></li>
                 </nav>
                 <CartWidget></CartWidget>
             </header>
