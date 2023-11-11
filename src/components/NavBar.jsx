@@ -6,7 +6,7 @@ const NavBar = () => {
         <>
             <header className="header">
                 <Link to="/">
-                    <h1 className="card-title">Titulo</h1>
+                    <h1 className="brand-title">Spaceat</h1>
                 </Link>
                 <nav className="nav">
                     <li className="hover-nav"><Link to="/Menu" >Menú</Link></li>

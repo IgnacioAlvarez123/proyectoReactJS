@@ -27,7 +27,12 @@ const ItemDetail = ({ item }) => {
             <img className="card-image" src={item.imagen} alt={item.nombre} />
             <h3 className="card-title">{item.nombre} - ${item.precio}</h3>
             <p className="card-text">{item.descripcion}</p>
-            <ItemCount cantidad={cantidad} handleSumar={handleSumar} handleRestar={handleRestar} handleAgregar={() => { handleAgregar(item, cantidad) }} />
+            <ItemCount
+                cantidad={cantidad}
+                handleSumar={handleSumar}
+                handleRestar={handleRestar}
+                handleAgregar={() => { handleAgregar(item, cantidad) }}
+            />
         </div>
     )
 }
