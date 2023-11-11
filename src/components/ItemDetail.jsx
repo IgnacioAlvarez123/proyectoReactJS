@@ -1,5 +1,5 @@
 import { CartContext } from "../context/CartContext";
-import ItemCount from "./itemCount";
+import ItemCount from "./ItemCount.jsx";
 import React, { useContext, useState } from 'react'
 
 const ItemDetail = ({ item }) => {
